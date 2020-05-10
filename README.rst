@@ -1,17 +1,17 @@
-# Discussion Area 
-Public Forums 
+# Discussion Area  Public Forums 
 
-Join GitHub > Request Invite > Be Admitted
+**Join GitHub > Request Invite > Be Admitted***
 
 https://github.com/orgs/freight-chain/teams/network
 
----
-name: "Feature request 💡"
-about: Suggest an idea for this project
-title: ""
-labels: "type: enhancement 💡"
-assignees: ""
----
+| Template  | Value                           |
+|-----------|---------------------------------|
+| Name      | 💡Feature Request               |
+| About     | Suggesting an Idea              |
+| Title     | " your title "                  |
+| Labels    | type: enhancement               |
+| Assigness | " you \+ one community member " |
+
 
 Use this template if you want to request a new feature, or a change to an existing feature.
 
@@ -44,13 +44,14 @@ Based on current tech. debt.
 
 See main GitHub Org
 
----
-name: Question ❓
-about: Usage question or discussion about the Carbon Design System Website.
-title: ""
-labels: "type: question ❓"
-assignees: ""
----
+| Template  | Value                                                        |
+|-----------|--------------------------------------------------------------|
+| Name      |  ❓Question                                                   |
+| About     | Usage question or discussion about the Freight Trust Network |
+| Title     | " your title "                                               |
+| Labels    | type: enhancement                                            |
+| Assigness | " you \+ one community member "                              |
+
 
 <!--
 
