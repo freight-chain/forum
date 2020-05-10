@@ -4,6 +4,7 @@
 
 https://github.com/orgs/freight-chain/teams/network
 
+
 | Template  | Value                           |
 |-----------|---------------------------------|
 | Name      | 💡Feature Request               |
