@@ -1,0 +1,16 @@
+
+# corporate codeowners template
+# 
+
+# Default to the operations team
+* @freighttchain
+
+# configuration lock
+*.conf @sambacha @freightchain
+
+# If updating content (mdx) opt for main systems team
+*.mdx @freighttrust/engineering/system
+@freightchain/site/content
+
+# Operations is in control of deployment (redundent)
+*@freightchain
